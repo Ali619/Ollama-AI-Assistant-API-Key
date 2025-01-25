@@ -20,7 +20,7 @@ A secure API gateway for interacting with the Llama3-7B model via Ollama, featur
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/ali619/ai-assistant-api-key.git
+https://github.com/Ali619/Ollama-AI-Assistant-API-Key.git
 cd ai-assistant-api
 ```
 
